@@ -1,3 +1,7 @@
+## curatedPCaData version 1.1.1 (2024-05-28)
+
+* Minor fixes for Imports/Suggests for vignettes
+
 ## curatedPCaData version 0.99.5 (2023-11-02)
 
 * Bioconductor re-revised version
